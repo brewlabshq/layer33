@@ -76,15 +76,17 @@ async function updateValidatorsWithVoteAccounts() {
     // Update validators with vote account addresses and remove name field
     let matchedCount = 0;
     validatorsData.validators.forEach((validator) => {
-      const voteAccount = voteAccountMap.get(validator.publicKey);
+      // Support both publicKey and identityKey for backward compatibility
+      const identityKey = validator.identityKey || validator.publicKey;
+      const voteAccount = voteAccountMap.get(identityKey);
       if (voteAccount) {
         validator.voteAccount = voteAccount;
         matchedCount++;
       } else {
         const displayName =
-          validator.displayName || validator.name || validator.publicKey;
+          validator.displayName || validator.name || identityKey;
         console.warn(
-          `No vote account found for identity: ${validator.publicKey} (${displayName})`
+          `No vote account found for identity: ${identityKey} (${displayName})`
         );
       }
 
@@ -94,6 +96,12 @@ async function updateValidatorsWithVoteAccounts() {
         validator.displayName = validator.name;
       }
       delete validator.name;
+
+      // Rename publicKey to identityKey if it exists
+      if (validator.publicKey && !validator.identityKey) {
+        validator.identityKey = validator.publicKey;
+        delete validator.publicKey;
+      }
     });
 
     console.log(

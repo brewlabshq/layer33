@@ -2,127 +2,127 @@
     "validators": [
         {
             "displayName": "blueshift",
-            "publicKey": "shftkxnsXmqAkmLgz9Mn7bNB5Fr6mKgFc58kFHfVikj",
+            "identityKey": "shftkxnsXmqAkmLgz9Mn7bNB5Fr6mKgFc58kFHfVikj",
             "voteAccount": "shft7Fry1js37Hm9wq4dfwcZSp2DyKszeWMvEpjYCQ1"
         },
         {
             "displayName": "1dad | Solfège",
-            "publicKey": "FyrwfMaomErzqrFUXMjCJ7mA4u81DsiDdrzC3MJD6d4j",
+            "identityKey": "FyrwfMaomErzqrFUXMjCJ7mA4u81DsiDdrzC3MJD6d4j",
             "voteAccount": "1Dadio3JRvpEjY6iSmXmhbGy9RiU8Nxh2GmoVbNusbE"
         },
         {
             "displayName": "Chainflow",
-            "publicKey": "2mMGsb5uy1Q4Dvezr8HK2E8SJoChcb2X7b61tJPaVHHd",
+            "identityKey": "2mMGsb5uy1Q4Dvezr8HK2E8SJoChcb2X7b61tJPaVHHd",
             "voteAccount": "CAf8jfgqhia5VNrEF4A7Y9VLD3numMq9DVSceq7cPhNY"
         },
         {
             "displayName": "Gojira",
-            "publicKey": "gojir4WnhS7VS1JdbnanJMzaMfr4UD7KeX1ixWAHEmw",
+            "identityKey": "gojir4WnhS7VS1JdbnanJMzaMfr4UD7KeX1ixWAHEmw",
             "voteAccount": "goJiRADNdmfnJ4iWEyft7KaYMPTVsRba2Ee1akDEBXb"
         },
         {
             "displayName": "GREED Academy - funding education",
-            "publicKey": "GREEDkgav1ox1jYyd9Anv6exLqKV2vYnxMw5prGwmNKc",
+            "identityKey": "GREEDkgav1ox1jYyd9Anv6exLqKV2vYnxMw5prGwmNKc",
             "voteAccount": "GREEDkpTvpKzcGvBu9qd36yk6BfjTWPShB67gLWuixMv"
         },
         {
             "displayName": "H2O Nodes",
-            "publicKey": "9pBHfuE19q7PRbupJf8CZAMwv6RHjasdyMN9U9du7Nx2",
+            "identityKey": "9pBHfuE19q7PRbupJf8CZAMwv6RHjasdyMN9U9du7Nx2",
             "voteAccount": "FCvNkHa4U3yh7AXWGGL2jWLWiSRouR8EtzY5WVTHKTHa"
         },
         {
             "displayName": "Ice Staking",
-            "publicKey": "icex1C6pnZxznQWiHZZANjGU8nZ8kNquFnjyY7XXrXE",
+            "identityKey": "icex1C6pnZxznQWiHZZANjGU8nZ8kNquFnjyY7XXrXE",
             "voteAccount": "votem3UdGx5xWFbY9EFbyZ1X2pBuswfR5yd2oB3JAaj"
         },
         {
             "displayName": "LakeStake",
-            "publicKey": "Lake8NXDThihebhxS3Js7mFnj9fthmus93zEdsFNrsL",
+            "identityKey": "Lake8NXDThihebhxS3Js7mFnj9fthmus93zEdsFNrsL",
             "voteAccount": "LAKEuKJQYVFpf4vyjX7iuf9ajHo3k9FiyewYKf6VxPV"
         },
         {
             "displayName": "Overclock",
-            "publicKey": "C1ocKDYMCm2ooWptMMnpd5VEB2Nx4UMJgRuYofysyzcA",
+            "identityKey": "C1ocKDYMCm2ooWptMMnpd5VEB2Nx4UMJgRuYofysyzcA",
             "voteAccount": "AS3nKBQfKs8fJ8ncyHrdvo4FDT6S8HMRhD75JjCcyr1t"
         },
         {
             "displayName": "Phase Labs",
-            "publicKey": "phz1CRbEsCtFCh2Ro5tjyu588VU1WPMwW9BJS9yFNn2",
+            "identityKey": "phz1CRbEsCtFCh2Ro5tjyu588VU1WPMwW9BJS9yFNn2",
             "voteAccount": "phz34EcgWRCT9otPzRS2JtSzVHxQJk4SovqJvV1TQk8"
         },
         {
             "displayName": "Pine Stake",
-            "publicKey": "Pid6HQnMCFb9izqX9i7X6ePdUPieGmjHoPxC1Jfooix",
+            "identityKey": "Pid6HQnMCFb9izqX9i7X6ePdUPieGmjHoPxC1Jfooix",
             "voteAccount": "PineDoC593nrX16W8ZLWfF5Evb6otv7fRfZMLjPAHe3"
         },
         {
             "displayName": "Prompt Logic",
-            "publicKey": "FwnWx7x99rGwLmipzz8ii15NqcHkKRo2oS1Y7j6LivgZ",
+            "identityKey": "FwnWx7x99rGwLmipzz8ii15NqcHkKRo2oS1Y7j6LivgZ",
             "voteAccount": "9f7dqiYNBZbgPesAnLeWnKCtxYHSfMg5x1EMZCJwVwG7"
         },
         {
             "displayName": "ProStaking",
-            "publicKey": "juigBT2qetpYpf1iwgjaiWTjryKkY3uUTVAnRFKkqY6",
+            "identityKey": "juigBT2qetpYpf1iwgjaiWTjryKkY3uUTVAnRFKkqY6",
             "voteAccount": "juicQdAnksqZ5Yb8NQwCLjLWhykvXGktxnQCDvMe6Nx"
         },
         {
             "displayName": "Pumpkin's Pool",
-            "publicKey": "PUmpKiNnSVAZ3w4KaFX6jKSjXUNHFShGkXbERo54xjb",
+            "identityKey": "PUmpKiNnSVAZ3w4KaFX6jKSjXUNHFShGkXbERo54xjb",
             "voteAccount": "DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx"
         },
         {
             "displayName": "Radiants",
-            "publicKey": "radM7PKUpZwJ9bYPAJ7V8FXHeUmH1zim6iaXUKkftP9",
+            "identityKey": "radM7PKUpZwJ9bYPAJ7V8FXHeUmH1zim6iaXUKkftP9",
             "voteAccount": "radYEig9KGrMTMWbWRFV7LStotQbnLgPaEFHVDsudQz"
         },
         {
             "displayName": "Solana Compass 🧭 Solana For The People",
-            "publicKey": "CMPSSdrTnRQBiBGTyFpdCc3VMNuLWYWaSkE8Zh5z6gbd",
+            "identityKey": "CMPSSdrTnRQBiBGTyFpdCc3VMNuLWYWaSkE8Zh5z6gbd",
             "voteAccount": "EARNynHRWg6GfyJCmrrizcZxARB3HVzcaasvNa8kBS72"
         },
         {
             "displayName": "SOL Strategies",
-            "publicKey": "SSmBEooM7RkmyuXxuKgAhTvhQZ36Z3G2WsmLGJKoQLY",
+            "identityKey": "SSmBEooM7RkmyuXxuKgAhTvhQZ36Z3G2WsmLGJKoQLY",
             "voteAccount": "punK4RDD3pFbcum79ACHatYPLLE1hr5UNnQVUGNfeyP"
         },
         {
             "displayName": "Stache Node",
-            "publicKey": "stacheBmGG5zMKuetUevAbc4m4dLbve1VPcpSur3voH",
+            "identityKey": "stacheBmGG5zMKuetUevAbc4m4dLbve1VPcpSur3voH",
             "voteAccount": "sTach38ebT8jnGH8i2D1g8NDAS6An19whVMnSSWPXt4"
         },
         {
             "displayName": "stakeware.xyz | ferric",
-            "publicKey": "ETcW7iuVraMKLMJayNCCsr9bLvKrJPDczy1CMVMPmXTc",
+            "identityKey": "ETcW7iuVraMKLMJayNCCsr9bLvKrJPDczy1CMVMPmXTc",
             "voteAccount": "C616NHpqpaiYpqVAv619QL73vEqKJs1mjsJLtAuCzMX6"
         },
         {
             "displayName": "Staking Facilities",
-            "publicKey": "Awes4Tr6TX8JDzEhCZY2QVNimT6iD1zWHzf1vNyGvpLM",
+            "identityKey": "Awes4Tr6TX8JDzEhCZY2QVNimT6iD1zWHzf1vNyGvpLM",
             "voteAccount": "DumiCKHVqoCQKD8roLApzR5Fit8qGV5fVQsJV9sTZk4a"
         },
         {
             "displayName": "Stronghold",
-            "publicKey": "91oPXTs2oq8VvJpQ5TnvXakFGnnJSpEB6HFWDtSctwMt",
+            "identityKey": "91oPXTs2oq8VvJpQ5TnvXakFGnnJSpEB6HFWDtSctwMt",
             "voteAccount": "Ac1beBKixfNdrTAac7GRaTsJTxLyvgGvJjvy4qQfvyfc"
         },
         {
             "displayName": "Superfast",
-            "publicKey": "R1parD2CtxPBGPABB2m3JjuLpGgNLiJuLxyt7qvAJR3",
+            "identityKey": "R1parD2CtxPBGPABB2m3JjuLpGgNLiJuLxyt7qvAJR3",
             "voteAccount": "R1vAoSPFQdCc6wsAEMtxWXjqptSeN1YUiq2Zni1of21"
         },
         {
             "displayName": "Suzuko Stake",
-            "publicKey": "hxMhrsuGPDmkLJ4mTxEjyeMST3VGhTiwJvS9XgHwePj",
+            "identityKey": "hxMhrsuGPDmkLJ4mTxEjyeMST3VGhTiwJvS9XgHwePj",
             "voteAccount": "hxVjzDmta9TuN1gM981TRKnfwG2uZ9TQDGwSCs3uDow"
         },
         {
             "displayName": "Titan Analytics",
-            "publicKey": "43Am3PKFeo9cACpqYL5Sk95rpVdxLw3Mc22PqRqZXEW2",
+            "identityKey": "43Am3PKFeo9cACpqYL5Sk95rpVdxLw3Mc22PqRqZXEW2",
             "voteAccount": "EBVj3uwSKZpqEb1K267JaPxDQhULVqCy6hYeQqjsPh81"
         },
         {
             "displayName": "Trillium: Stake, Earn, and Fuel Solana!",
-            "publicKey": "Tri1F8B6YtjkBztGCwBNSLEZib1EAqMUEUM7dTT7ZG3",
+            "identityKey": "Tri1F8B6YtjkBztGCwBNSLEZib1EAqMUEUM7dTT7ZG3",
             "voteAccount": "tri1cHBy47fPyhCvrCf6FnR7Mz6XdSoSBah2FsZVQeT"
         }
     ]
