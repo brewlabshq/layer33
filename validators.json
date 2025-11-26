@@ -119,6 +119,11 @@
             "displayName": "Trillium: Stake, Earn, and Fuel Solana!",
             "identityKey": "Tri1F8B6YtjkBztGCwBNSLEZib1EAqMUEUM7dTT7ZG3",
             "voteAccount": "tri1cHBy47fPyhCvrCf6FnR7Mz6XdSoSBah2FsZVQeT"
+        },
+        {
+            "displayName": "Sol-Incinerator",
+            "identityKey": "burncPhAzPbo9QCzN9j8ig2FKZjwDhM5zgN2eW3GmWa",
+            "voteAccount": "burnn86ebxJnhtk3cfpHoZxy5nUaC3K9U8VwzgqhEEt"
         }
     ]
 }
